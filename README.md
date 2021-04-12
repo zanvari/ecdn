@@ -13,3 +13,16 @@ We focus on unpaired single image dehazing and reduce the image dehazing problem
 # Results
 
 ![alt text](https://github.com/zanvari/ecdn/blob/main/figs/results-ecdn.png?raw=true)
+
+# Publication
+If you find this work useful for you, please cite:
+
+    @InProceedings{anvari_visapp2021,
+        author    = {Anvari, Zahra and Athitsos, Vassilis},
+        title     = {Enhanced CycleGAN Dehazing Network},
+        booktitle = {Proceedings of the 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP)},
+        month     = {February},
+        year      = {2021},
+        volume    = {4},
+        pages     = {193-202}
+    }
